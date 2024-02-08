@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce966dc8-4c95-4a1c-8910-0f5de862ff6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/example/student/students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/example/student/students/StudentConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/example/student/students/StudentControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/example/student/students/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student/src/main/java/com/example/student/students/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/django/nova_backend/nova_backend/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Backend/django/nova_backend/nova_backend/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/django/nova_backend/nova_backend/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Backend/django/nova_backend/nova_backend/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Backend/django/nova_backend/nova_backend/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Backend/django/nova_backend/nova_backend/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/Facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/LinkedIn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/arrow1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/arrow2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/canada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/codes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/codes.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/continue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/logoDark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/passwordHidden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/user2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/public/assets/user3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/components/profille/About.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/components/profille/Certificate.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/components/profille/Education.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/components/profille/Experience.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/components/profille/Invetions.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/components/profille/Patents.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/components/profille/WorkHistory.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/components/profille/userData.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/config/firebase.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/helpers/login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/pages/Landing.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/pages/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/pages/NavBar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/pages/Profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/pages/SignUp.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/store/constants/actionType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/store/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/store/slices/LoggedInSlice.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/store/slices/aboutSlice.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/store/slices/formData.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/src/store/slices/userCredentials.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Miracle/frontend/miracle-fronted/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Personal portifolio/new-personal-portifolio/React start up/start up/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/React/Personal portifolio/new-personal-portifolio/React start up/start up/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Personal portifolio/new-personal-portifolio/React start up/start up/src/components/about/About.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/React/Personal portifolio/new-personal-portifolio/React start up/start up/src/components/about/About.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Personal portifolio/new-personal-portifolio/React start up/start up/src/components/contacts/Contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/React/Personal portifolio/new-personal-portifolio/React start up/start up/src/components/contacts/Contact.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/Personal portifolio/new-personal-portifolio/React start up/start up/src/components/services/Services.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Frontend/React/Personal portifolio/new-personal-portifolio/React start up/start up/src/components/services/Services.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/backend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/frontend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/Facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/LinkedIn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/arrow1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/arrow2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/canada.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/codes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/codes.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/continue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/logoDark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/passwordHidden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/user2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/public/assets/user3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/components/profille/About.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/components/profille/Certificate.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/components/profille/Education.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/components/profille/Experience.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/components/profille/Invetions.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/components/profille/Patents.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/components/profille/WorkHistory.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/components/profille/userData.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/config/firebase.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/helpers/addSingle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/helpers/deleteProfile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/helpers/editProfile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/helpers/fetchProfile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/helpers/signUp.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/helpers/updateSingle.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/helpers/useLogin.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/pages/Landing.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/pages/Login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/pages/NavBar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/pages/Profile.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/pages/SignUp.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/store/constants/actionType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/store/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/store/slices/LoggedInSlice.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/store/slices/aboutSlice.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/store/slices/formData.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/src/store/slices/userCredentials.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/frontend/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/config/db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/controllers/authController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/controllers/profileController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/middlewares/verifyToken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/models/profileModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/models/userModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/routes/authRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/routes/profileRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Frontend/React/final_miracle_projects/miracle-allTogether/miracle-backend/vercel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/AnonymousClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/EqualsTutorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/Hen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/IOFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/Material.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/Material1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/MaterialStuff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/NumberGuesingGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java/learning java/secondJavaLesson/OuterClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo/src/main/java/com/example/demo/Repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo/src/main/java/com/example/demo/Repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo/src/main/java/com/example/demo/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo/src/main/java/com/example/demo/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/demo/src/main/java/com/example/demo/students/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/demo/src/main/java/com/example/demo/students/StudentControllers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstproject/demo/src/main/java/com/example/demo/students/StudentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/student.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/student.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/src/main/java/com/example/Entity/User.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2c2mKlN5ooVdA7tLewuXFrqQfMm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "allTogether",
+    "last_opened_file_path": "C:/Users/veryg/OneDrive/Documents/Verygood files/verygood codes/springboot/student",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="StudentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="student" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.student.StudentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce966dc8-4c95-4a1c-8910-0f5de862ff6c" name="Changes" comment="" />
+      <created>1707317986012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707317986012</updated>
+      <workItem from="1707317987016" duration="17485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
